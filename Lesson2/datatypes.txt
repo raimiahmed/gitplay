@@ -1,0 +1,16 @@
+What data type?
+
+7.8   ----------------Number
+"888" ----------------string
+<-11  ----------------boolean
+NaN   ----------------undefined
+5600 * 34-------------undefined
+
+Right or Wrong variable Names?
+
+year    ------------------correct
+*64     ------------------Wrong
+_%earn  ------------------Wrong
+value   ------------------Correct
+salary  ------------------Coreect
+do      ------------------Wrong
